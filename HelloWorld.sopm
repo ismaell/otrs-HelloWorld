@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.0">
+	<Name>HelloWorld</Name>
+	<Version>1.0</Version>
+	<Framework>6.0.x</Framework>
+	<Vendor>Ismael Luceno</Vendor>
+	<URL>https://github.com/ismaell/otrs-HelloWorld/</URL>
+	<License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+	<Description Lang="de">Hallo Welt!</Description>
+	<Description Lang="en">Hello World!</Description>
+	<Description Lang="es">Hola Mundo!</Description>
+	<Description Lang="pt">Olá Mundo!</Description>
+</otrs_package>

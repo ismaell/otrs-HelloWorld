@@ -1,0 +1,12 @@
+# --
+# Kernel/Output/HTML/Templates/Standard/AgentHelloWorld.tt - overview
+# Copyright (C) (year) (name of author) (email of author)
+# --
+# This software comes with ABSOLUTELY NO WARRANTY. For details, see
+# the enclosed file COPYING for license information (AGPL). If you
+# did not receive this file, see http://www.gnu.org/licenses/agpl.txt.
+# --
+<h1>[% Translate("Overview") | html %]: [% Translate("HelloWorld") %]</h1>
+<p>
+    [% Data.HelloWorldText | Translate() | html %]
+</p>
